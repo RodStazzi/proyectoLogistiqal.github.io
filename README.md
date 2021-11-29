@@ -81,17 +81,17 @@ Run As -> Spring Boot App<br>
 Podrá Ingresar en Login, Agregar productos, Editarlos, Eliminarlos, Paginarlos o Buscarlos segun muestra .Gif<br>
 <br>
 <br>
-# Login<br>
+#### Login<br>
 ![1  login](https://user-images.githubusercontent.com/88750836/143794188-de92ca09-c03f-4575-a18d-a23e2b83d19f.gif)<br>
-# Agregando<br>
+#### Agregando<br>
 ![2  agregando](https://user-images.githubusercontent.com/88750836/143794214-4960c13d-5a87-4d05-8688-76a41296dfff.gif)<br>
 # Editando<br>
 ![3  editando](https://user-images.githubusercontent.com/88750836/143794241-4063a06f-557a-41c5-bfa7-fe2aaf5dedfa.gif)<br>
-# Eliminando<br>
+#### Eliminando<br>
 ![4  eliminando](https://user-images.githubusercontent.com/88750836/143794427-c61d8ccb-12b7-420b-8895-bf06231e11c7.gif)<br>
 <br>
 <br>
-## Autor(es) ✒️
+### Autor(es) ✒️
 
 * **Rodolfo Stazzi S** - *Back & Front* - [<ro.sta>](https://github.com/RodStazzi)
 
